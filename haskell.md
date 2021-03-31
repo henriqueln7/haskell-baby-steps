@@ -20,12 +20,13 @@ div 92 10
 As listas são as principais estruturas de dados presentes em Haskell. Elas são homogêneas, o que significa que todos os seus elementos são valores do mesmo tipo.
 Exemplo de listas:
 ```haskell
-[1, 2, 3]
-["A", "B", "C"]
-[[]. 
+[1, 2, 3] -- Lista de números
+["A", "B", "C"] -- Lista de strings
+[[]. []] -- Lista de listas
 ```
+Em Haskell, há a possibilidade de construir listas de uma forma muito parecida com a definição 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Njc4MTcxOF19
+eyJoaXN0b3J5IjpbMTUyNzAwMzE5M119
 -->
