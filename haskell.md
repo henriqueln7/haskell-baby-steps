@@ -34,10 +34,12 @@ Portanto, toda List Compreenssion tem 3 partes:
 Exemplos de list compreensios:
 ```haskell
 [x | x <- [1..100], mod x 2 = 1] -- Listando os números ímpares presentes no conjunto [1, 100]]. Note que a construção [1..100] em Haskell gera uma lista [1, 2, 3, 4, ..., 98, 99, 100]. O nosso predicado afirma que se o número oriundo da entrada não for divísivel por 2, deve ser colocado na lista da saída. A nossa saída é apenas a função identidade de x, o próprio x.
-
+[x + 2 | x <- [1, 2, 3], x + 1 == 3] -- Aqui obtemos os valores de x da lista [1, 2, 3]. Caso o valor de x acrescido de 1 seja igual a 3, colocamos na nossa lista de saída o valor de x + 2.
 ```
+
+É interessante notar que em Haskell, uma st
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzEwNTEwNF19
+eyJoaXN0b3J5IjpbNjU5MzQ1OTM0XX0=
 -->
