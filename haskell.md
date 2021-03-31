@@ -31,9 +31,12 @@ Portanto, toda List Compreenssion tem 3 partes:
 * Entrada dos valores -> Os elementos precisam vir de algum lugar. Geralmente eles vêm de uma lista.
 * Predicados -> Não queremos todos os elementos que vieram da entrada em nossa saída. Precisamos fazer uma espécie de filtro com eles.
 
-Exemplos de list comp
+Exemplos de list compreensios:
+```haskell
+[x | x <- [1..100], x mod 2 = 1]
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc0NzY3OTldfQ==
+eyJoaXN0b3J5IjpbOTQ3NjM2NTg0XX0=
 -->
