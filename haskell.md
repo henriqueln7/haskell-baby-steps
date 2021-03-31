@@ -61,7 +61,16 @@ Inserir elemento (:) - Também chamado de cons operator
 --"Hello"
 ```
 
+Extrair elemento por índice (!!)
+Comparação de listas
+head
+tail
+last
+init
+length
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Nzc3Mzk4OV19
+eyJoaXN0b3J5IjpbLTM0NTAxNzU2OF19
 -->
