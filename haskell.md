@@ -41,11 +41,19 @@ Exemplos de list compreensios:
 
 ### Operações com listas
 Concatenação (++)
+```haskell
+[1,2,3] ++ [4, 5, 6]
+-- [1,2,3,4,5,6]
+[3,1]++[1,2]
+--[3,1,1,2]
+"Hello" ++ " World"
+-- "Hello World"
 ```
-[1,2,3] +
-```
+A operação de concatenação geralmente é custosa para listas com tamanho grande, já que precisa varrer todos os elementos de uma das listas.
+
+Inserir elemento (:) - Também chamado de cons operator
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTAxMTkyMl19
+eyJoaXN0b3J5IjpbLTEwMjc4NTk3NDldfQ==
 -->
