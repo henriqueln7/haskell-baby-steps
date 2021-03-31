@@ -14,11 +14,18 @@ Se uma função receber 2 parâmetros ela pode ser reescrita com uma notação i
 ```haskell
 div 92 10
 -- Pode ser reescrito como
-
+92 `div` 10
 ```
-
+### Listas
+As listas são as principais estruturas de dados presentes em Haskell. Elas são homogêneas, o que significa que todos os seus elementos são valores do mesmo tipo.
+Exemplo de listas:
+```haskell
+[1, 2, 3]
+["A", "B", "C"]
+[[]. 
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzEwNTgxN119
+eyJoaXN0b3J5IjpbLTY2Njc4MTcxOF19
 -->
