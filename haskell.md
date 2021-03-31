@@ -37,9 +37,15 @@ Exemplos de list compreensios:
 [x + 2 | x <- [1, 2, 3], x + 1 == 3] -- Aqui obtemos os valores de x da lista [1, 2, 3]. Caso o valor de x acrescido de 1 seja igual a 3, colocamos na nossa lista de saída o valor de x + 2.
 ```
 
-É interessante notar que em Haskell, uma st
+É interessante notar que em Haskell, uma string não é nada mais que uma lista de char. Ou seja, ```"Hello" = ['H', 'e', 'l', 'l', o]```. Tendo isso em vista, qualquer operação feita em listas também podem ser feitas em strings.
+
+### Operações com listas
+Concatenação (++)
+```
+[1,2,3] +
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5MzQ1OTM0XX0=
+eyJoaXN0b3J5IjpbLTY2MTAxMTkyMl19
 -->
