@@ -24,9 +24,14 @@ Exemplo de listas:
 ["A", "B", "C"] -- Lista de strings
 [[]. []] -- Lista de listas
 ```
-Em Haskell, há a possibilidade de construir listas de uma forma muito parecida com a definição 
+Em Haskell, há a possibilidade de construir listas de uma forma muito parecida com a notação usada para construir um conjunto em matemática. A notação pode ser vista [aqui](https://en.wikipedia.org/wiki/Set_(mathematics)#Set-builder_notation)
+
+Portanto, toda List Compreenssion tem 3 partes: 
+* A saída -> Responsável
+* Entrada dos valores
+* Predicados
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzAwMzE5M119
+eyJoaXN0b3J5IjpbLTE2OTgzMDcxNzNdfQ==
 -->
