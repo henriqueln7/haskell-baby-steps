@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="haskell">Haskell</h2>
 <p>Haskell é uma linguagem puramente funcional, o que significa que as funções não tem efeitos colaterais e respeitam a transparência referencial, que significa que uma função chamada 2 vezes com os mesmos parâmetros retornam o mesmo valor.</p>
 <h3 id="funções">Funções</h3>
@@ -111,5 +106,5 @@ replicate</p>
 </blockquote>
 ).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDE5MTY4MTBdfQ==
+eyJoaXN0b3J5IjpbLTk1MDYxNDc0NF19
 -->
