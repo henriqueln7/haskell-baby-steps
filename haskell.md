@@ -27,11 +27,13 @@ Exemplo de listas:
 Em Haskell, há a possibilidade de construir listas de uma forma muito parecida com a notação usada para construir um conjunto em matemática. A notação pode ser vista [aqui](https://en.wikipedia.org/wiki/Set_(mathematics)#Set-builder_notation)
 
 Portanto, toda List Compreenssion tem 3 partes: 
-* A saída -> Representa os valores que estarão presente na lista após
-* Entrada dos valores
-* Predicados
+* A saída -> Representa os valores que estarão presentes na lista.
+* Entrada dos valores -> Os elementos precisam vir de algum lugar. Geralmente eles vêm de uma lista.
+* Predicados -> Não queremos todos os elementos que vieram da entrada em nossa saída. Precisamos fazer uma espécie de filtro com eles.
+
+Exemplos de list comp
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUyMTY4MjNdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjc0NzY3OTldfQ==
 -->
