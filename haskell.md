@@ -52,8 +52,16 @@ Concatenação (++)
 A operação de concatenação geralmente é custosa para listas com tamanho grande, já que precisa varrer todos os elementos de uma das listas.
 
 Inserir elemento (:) - Também chamado de cons operator
+```haskell
+5:[1,2]
+-- [5,1,2]
+[]:[]
+--[[]]
+'H':"ello"
+--"Hello"
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc4NTk3NDldfQ==
+eyJoaXN0b3J5IjpbMTk2Nzc3Mzk4OV19
 -->
